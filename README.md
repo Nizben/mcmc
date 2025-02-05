@@ -2,8 +2,6 @@
 
 A comprehensive repository for exploring Markov Chain Monte Carlo (MCMC) methods through theory, pseudocode, and interactive Jupyter Notebook implementations. This project covers various MCMC algorithms—including Importance Sampling, Metropolis–Hastings, Gibbs Sampling, Hamiltonian Monte Carlo (HMC), and the Metropolis Adjusted Langevin Algorithm (MALA)—with relevant theoretical foundations and practical use cases.
 
----
-
 ## Overview
 
 This repository contains:
@@ -11,8 +9,6 @@ This repository contains:
 - **Algorithm Implementations:** Clear pseudocode and Python implementations for key MCMC methods.
 - **Real-World Applications:** Notebooks demonstrating applications in Bayesian linear regression, audio signal reconstruction, image reconstruction using HMC, and implicit neural representations (Neural SDF) with MALA.
 - **Interactive Notebooks:** All code is available in Jupyter notebooks so readers can experiment and extend the code.
-
----
 
 ## Getting Started
 
